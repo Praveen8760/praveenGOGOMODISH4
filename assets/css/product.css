@@ -1,0 +1,13 @@
+.size{
+    background-color: transparent;
+}
+.btn-add{
+    border-radius: 50px;
+}
+.btn-buy:hover{
+    color: #e5f33c;
+    box-shadow: 2px 4px 6px 4px #e5f33c;
+}
+.product-card:hover{
+    border: 0;
+}
